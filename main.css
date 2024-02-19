@@ -3,6 +3,18 @@
     margin: 0;
     padding: 0;
 }
+#internacional p{
+    max-width: 500px;
+    margin: 0;
+}
+#entretenimento p{
+    max-width: 500px;
+    margin: 0;
+}
+#esportes p{
+    max-width: 500px;
+    margin: 0;
+} /* usei esse max-width para limitar o espaço que meu texto ocupa*/
 body > header {
     background-color: #2f3640 ;
     padding: 20px 0;
