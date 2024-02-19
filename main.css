@@ -3,6 +3,13 @@
     margin: 0;
     padding: 0;
 }
+.container{
+    width: 1366px;
+    margin: 0 auto 0 auto; /*na ordem da margin, 1° topo, 2° direita, 3° embaixo e 4° esquerda.*/
+}
+.container li{
+    display: inline;
+}
 #internacional p{
     max-width: 500px;
     margin: 0;
